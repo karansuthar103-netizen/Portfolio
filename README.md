@@ -29,6 +29,4 @@ This portfolio is designed to give visitors a clear and professional overview of
 - **CSS3** – Styling and responsive design  
 - **JavaScript** – Interactivity and dynamic features  
 
----
 
-## 📂 Project Structure
